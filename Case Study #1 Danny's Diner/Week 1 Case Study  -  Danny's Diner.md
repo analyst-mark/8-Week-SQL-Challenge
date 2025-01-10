@@ -4,8 +4,11 @@
 ---
 ## Table of Contents
 [Introduction](#Introduction) 
+
 [Problem Statement](#Problem%20Statement)
+
 [Case Study Questions and Solutions](#Case%20Study%20Questions%20and%20Solutions) 
+
 [Bonus Questions](#Bonus%20Questions) 
 
 Source: https://8weeksqlchallenge.com/case-study-1/
